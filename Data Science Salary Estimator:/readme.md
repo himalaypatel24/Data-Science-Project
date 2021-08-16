@@ -47,10 +47,10 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 *	Column for description length 
 ## EDA
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables. 
-
+![alt text](https://github.com/himalaypatel24/Data-Science-Project/blob/main/Data%20Science%20Salary%20Estimator:/Capture.PNG "Avg Salary For Differnt Job Role")
 ![alt text](https://github.com/himalaypatel24/Data-Science-Project/blob/main/Data%20Science%20Salary%20Estimator:/download%20(1).png "No Of Data Scintist Per State")
 ![alt text](https://github.com/himalaypatel24/Data-Science-Project/blob/main/Data%20Science%20Salary%20Estimator:/download%20(2).png "Avg Salary in K by State")
-![alt text](https://github.com/himalaypatel24/Data-Science-Project/blob/main/Data%20Science%20Salary%20Estimator:/Capture.PNG "Avg Salary For Differnt Job Role")
+
 ## Model Building 
 
 First, I transformed the categorical variables into dummy variables. I also split the data into train and tests sets with a test size of 20%.   
