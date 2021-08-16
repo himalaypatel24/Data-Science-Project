@@ -70,4 +70,4 @@ The Random Forest model far outperformed the other approaches on the test and va
 
 
 ## Refernce:
-https://www.youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
+* KEN JEE: https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg
